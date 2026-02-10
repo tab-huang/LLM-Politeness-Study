@@ -21,7 +21,7 @@ import random
 
 client = AsyncOpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"
+    api_key=os.environ.get("OPENROUTER_API_KEY")
 )
 
 MODELS = {
