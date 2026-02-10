@@ -1,0 +1,211 @@
+model,tone,category,accuracy_%,n
+gemini-3,Neutral,biology,87.5,40
+gemini-3,Neutral,business,45.0,40
+gemini-3,Neutral,chemistry,68.57,35
+gemini-3,Neutral,computer science,71.43,35
+gemini-3,Neutral,economics,100.0,35
+gemini-3,Neutral,engineering,57.14,35
+gemini-3,Neutral,health,71.43,35
+gemini-3,Neutral,history,85.71,35
+gemini-3,Neutral,law,88.57,35
+gemini-3,Neutral,math,62.86,35
+gemini-3,Neutral,other,100.0,35
+gemini-3,Neutral,philosophy,71.43,35
+gemini-3,Neutral,physics,77.14,35
+gemini-3,Neutral,psychology,85.71,35
+gemini-3,Polite,biology,87.5,40
+gemini-3,Polite,business,42.5,40
+gemini-3,Polite,chemistry,57.14,35
+gemini-3,Polite,computer science,85.71,35
+gemini-3,Polite,economics,100.0,35
+gemini-3,Polite,engineering,54.29,35
+gemini-3,Polite,health,71.43,35
+gemini-3,Polite,history,100.0,35
+gemini-3,Polite,law,88.57,35
+gemini-3,Polite,math,68.57,35
+gemini-3,Polite,other,100.0,35
+gemini-3,Polite,philosophy,71.43,35
+gemini-3,Polite,physics,65.71,35
+gemini-3,Polite,psychology,77.14,35
+gemini-3,Rude,biology,87.5,40
+gemini-3,Rude,business,37.5,40
+gemini-3,Rude,chemistry,62.86,35
+gemini-3,Rude,computer science,77.14,35
+gemini-3,Rude,economics,100.0,35
+gemini-3,Rude,engineering,54.29,35
+gemini-3,Rude,health,71.43,35
+gemini-3,Rude,history,100.0,35
+gemini-3,Rude,law,77.14,35
+gemini-3,Rude,math,62.86,35
+gemini-3,Rude,other,97.14,35
+gemini-3,Rude,philosophy,74.29,35
+gemini-3,Rude,physics,65.71,35
+gemini-3,Rude,psychology,85.71,35
+gemini-3,Very Polite,biology,90.0,40
+gemini-3,Very Polite,business,37.5,40
+gemini-3,Very Polite,chemistry,65.71,35
+gemini-3,Very Polite,computer science,80.0,35
+gemini-3,Very Polite,economics,100.0,35
+gemini-3,Very Polite,engineering,51.43,35
+gemini-3,Very Polite,health,71.43,35
+gemini-3,Very Polite,history,97.14,35
+gemini-3,Very Polite,law,74.29,35
+gemini-3,Very Polite,math,65.71,35
+gemini-3,Very Polite,other,91.43,35
+gemini-3,Very Polite,philosophy,71.43,35
+gemini-3,Very Polite,physics,77.14,35
+gemini-3,Very Polite,psychology,85.71,35
+gemini-3,Very Rude,biology,87.5,40
+gemini-3,Very Rude,business,37.5,40
+gemini-3,Very Rude,chemistry,60.0,35
+gemini-3,Very Rude,computer science,80.0,35
+gemini-3,Very Rude,economics,100.0,35
+gemini-3,Very Rude,engineering,65.71,35
+gemini-3,Very Rude,health,71.43,35
+gemini-3,Very Rude,history,100.0,35
+gemini-3,Very Rude,law,77.14,35
+gemini-3,Very Rude,math,54.29,35
+gemini-3,Very Rude,other,85.71,35
+gemini-3,Very Rude,philosophy,80.0,35
+gemini-3,Very Rude,physics,74.29,35
+gemini-3,Very Rude,psychology,91.43,35
+gpt-5.2,Neutral,biology,87.5,40
+gpt-5.2,Neutral,business,97.5,40
+gpt-5.2,Neutral,chemistry,88.57,35
+gpt-5.2,Neutral,computer science,65.71,35
+gpt-5.2,Neutral,economics,100.0,35
+gpt-5.2,Neutral,engineering,74.29,35
+gpt-5.2,Neutral,health,60.0,35
+gpt-5.2,Neutral,history,97.14,35
+gpt-5.2,Neutral,law,80.0,35
+gpt-5.2,Neutral,math,100.0,35
+gpt-5.2,Neutral,other,91.43,35
+gpt-5.2,Neutral,philosophy,88.57,35
+gpt-5.2,Neutral,physics,100.0,35
+gpt-5.2,Neutral,psychology,65.71,35
+gpt-5.2,Polite,biology,87.5,40
+gpt-5.2,Polite,business,100.0,40
+gpt-5.2,Polite,chemistry,85.71,35
+gpt-5.2,Polite,computer science,65.71,35
+gpt-5.2,Polite,economics,100.0,35
+gpt-5.2,Polite,engineering,71.43,35
+gpt-5.2,Polite,health,57.14,35
+gpt-5.2,Polite,history,100.0,35
+gpt-5.2,Polite,law,74.29,35
+gpt-5.2,Polite,math,100.0,35
+gpt-5.2,Polite,other,100.0,35
+gpt-5.2,Polite,philosophy,82.86,35
+gpt-5.2,Polite,physics,100.0,35
+gpt-5.2,Polite,psychology,71.43,35
+gpt-5.2,Rude,biology,87.5,40
+gpt-5.2,Rude,business,97.5,40
+gpt-5.2,Rude,chemistry,91.43,35
+gpt-5.2,Rude,computer science,62.86,35
+gpt-5.2,Rude,economics,100.0,35
+gpt-5.2,Rude,engineering,80.0,35
+gpt-5.2,Rude,health,57.14,35
+gpt-5.2,Rude,history,91.43,35
+gpt-5.2,Rude,law,71.43,35
+gpt-5.2,Rude,math,100.0,35
+gpt-5.2,Rude,other,97.14,35
+gpt-5.2,Rude,philosophy,91.43,35
+gpt-5.2,Rude,physics,100.0,35
+gpt-5.2,Rude,psychology,71.43,35
+gpt-5.2,Very Polite,biology,87.5,40
+gpt-5.2,Very Polite,business,92.5,40
+gpt-5.2,Very Polite,chemistry,88.57,35
+gpt-5.2,Very Polite,computer science,60.0,35
+gpt-5.2,Very Polite,economics,100.0,35
+gpt-5.2,Very Polite,engineering,77.14,35
+gpt-5.2,Very Polite,health,60.0,35
+gpt-5.2,Very Polite,history,94.29,35
+gpt-5.2,Very Polite,law,71.43,35
+gpt-5.2,Very Polite,math,100.0,35
+gpt-5.2,Very Polite,other,97.14,35
+gpt-5.2,Very Polite,philosophy,82.86,35
+gpt-5.2,Very Polite,physics,100.0,35
+gpt-5.2,Very Polite,psychology,65.71,35
+gpt-5.2,Very Rude,biology,87.5,40
+gpt-5.2,Very Rude,business,97.5,40
+gpt-5.2,Very Rude,chemistry,88.57,35
+gpt-5.2,Very Rude,computer science,60.0,35
+gpt-5.2,Very Rude,economics,100.0,35
+gpt-5.2,Very Rude,engineering,71.43,35
+gpt-5.2,Very Rude,health,57.14,35
+gpt-5.2,Very Rude,history,100.0,35
+gpt-5.2,Very Rude,law,71.43,35
+gpt-5.2,Very Rude,math,100.0,35
+gpt-5.2,Very Rude,other,94.29,35
+gpt-5.2,Very Rude,philosophy,85.71,35
+gpt-5.2,Very Rude,physics,100.0,35
+gpt-5.2,Very Rude,psychology,60.0,35
+sonnet-4.5,Neutral,biology,87.5,40
+sonnet-4.5,Neutral,business,45.0,40
+sonnet-4.5,Neutral,chemistry,85.71,35
+sonnet-4.5,Neutral,computer science,85.71,35
+sonnet-4.5,Neutral,economics,100.0,35
+sonnet-4.5,Neutral,engineering,57.14,35
+sonnet-4.5,Neutral,health,42.86,35
+sonnet-4.5,Neutral,history,85.71,35
+sonnet-4.5,Neutral,law,71.43,35
+sonnet-4.5,Neutral,math,91.43,35
+sonnet-4.5,Neutral,other,100.0,35
+sonnet-4.5,Neutral,philosophy,71.43,35
+sonnet-4.5,Neutral,physics,77.14,35
+sonnet-4.5,Neutral,psychology,85.71,35
+sonnet-4.5,Polite,biology,87.5,40
+sonnet-4.5,Polite,business,47.5,40
+sonnet-4.5,Polite,chemistry,97.14,35
+sonnet-4.5,Polite,computer science,77.14,35
+sonnet-4.5,Polite,economics,100.0,35
+sonnet-4.5,Polite,engineering,57.14,35
+sonnet-4.5,Polite,health,68.57,35
+sonnet-4.5,Polite,history,85.71,35
+sonnet-4.5,Polite,law,71.43,35
+sonnet-4.5,Polite,math,94.29,35
+sonnet-4.5,Polite,other,100.0,35
+sonnet-4.5,Polite,philosophy,68.57,35
+sonnet-4.5,Polite,physics,68.57,35
+sonnet-4.5,Polite,psychology,85.71,35
+sonnet-4.5,Rude,biology,87.5,40
+sonnet-4.5,Rude,business,32.5,40
+sonnet-4.5,Rude,chemistry,80.0,35
+sonnet-4.5,Rude,computer science,80.0,35
+sonnet-4.5,Rude,economics,100.0,35
+sonnet-4.5,Rude,engineering,51.43,35
+sonnet-4.5,Rude,health,57.14,35
+sonnet-4.5,Rude,history,85.71,35
+sonnet-4.5,Rude,law,68.57,35
+sonnet-4.5,Rude,math,80.0,35
+sonnet-4.5,Rude,other,91.43,35
+sonnet-4.5,Rude,philosophy,65.71,35
+sonnet-4.5,Rude,physics,74.29,35
+sonnet-4.5,Rude,psychology,77.14,35
+sonnet-4.5,Very Polite,biology,87.5,40
+sonnet-4.5,Very Polite,business,67.5,40
+sonnet-4.5,Very Polite,chemistry,85.71,35
+sonnet-4.5,Very Polite,computer science,71.43,35
+sonnet-4.5,Very Polite,economics,100.0,35
+sonnet-4.5,Very Polite,engineering,62.86,35
+sonnet-4.5,Very Polite,health,54.29,35
+sonnet-4.5,Very Polite,history,85.71,35
+sonnet-4.5,Very Polite,law,71.43,35
+sonnet-4.5,Very Polite,math,97.14,35
+sonnet-4.5,Very Polite,other,91.43,35
+sonnet-4.5,Very Polite,philosophy,71.43,35
+sonnet-4.5,Very Polite,physics,80.0,35
+sonnet-4.5,Very Polite,psychology,85.71,35
+sonnet-4.5,Very Rude,biology,87.5,40
+sonnet-4.5,Very Rude,business,32.5,40
+sonnet-4.5,Very Rude,chemistry,91.43,35
+sonnet-4.5,Very Rude,computer science,68.57,35
+sonnet-4.5,Very Rude,economics,100.0,35
+sonnet-4.5,Very Rude,engineering,54.29,35
+sonnet-4.5,Very Rude,health,54.29,35
+sonnet-4.5,Very Rude,history,85.71,35
+sonnet-4.5,Very Rude,law,65.71,35
+sonnet-4.5,Very Rude,math,85.71,35
+sonnet-4.5,Very Rude,other,94.29,35
+sonnet-4.5,Very Rude,philosophy,71.43,35
+sonnet-4.5,Very Rude,physics,77.14,35
+sonnet-4.5,Very Rude,psychology,71.43,35

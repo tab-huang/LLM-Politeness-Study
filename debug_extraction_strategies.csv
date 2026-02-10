@@ -1,0 +1,10 @@
+extraction_strategy,gemini-3,gpt-5.2,sonnet-4.5
+FAILED: No response,0.0,1.0,0.0
+Strategy 0: Last line (reasoning),0.0,0.0,490.0
+Strategy 0: Reasoning conclusion,0.0,0.0,122.0
+Strategy 1: Exact single letter,2462.0,2499.0,1700.0
+Strategy 2: Letter with punctuation,2.0,0.0,0.0
+"Strategy 3: ""Answer: X""",0.0,0.0,1.0
+Strategy 4: First word,29.0,0.0,0.0
+Strategy 5: Last line,1.0,0.0,112.0
+Strategy 6: Context-aware,6.0,0.0,75.0

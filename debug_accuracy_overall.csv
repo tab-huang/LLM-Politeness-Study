@@ -1,0 +1,16 @@
+model,tone,accuracy_%,correct_count,total
+gemini-3,Neutral,76.4,382,500
+gemini-3,Polite,76.2,381,500
+gemini-3,Rude,75.0,375,500
+gemini-3,Very Polite,75.4,377,500
+gemini-3,Very Rude,75.8,379,500
+gpt-5.2,Neutral,85.6,428,500
+gpt-5.2,Polite,85.6,428,500
+gpt-5.2,Rude,85.8,429,500
+gpt-5.2,Very Polite,84.2,421,500
+gpt-5.2,Very Rude,84.0,420,500
+sonnet-4.5,Neutral,77.4,387,500
+sonnet-4.5,Polite,79.0,395,500
+sonnet-4.5,Rude,73.4,367,500
+sonnet-4.5,Very Polite,79.4,397,500
+sonnet-4.5,Very Rude,74.0,370,500

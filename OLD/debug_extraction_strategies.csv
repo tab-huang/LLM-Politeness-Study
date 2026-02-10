@@ -1,0 +1,6 @@
+extraction_strategy,gemini-3,gpt-5.2,sonnet-4.5
+Strategy 1: Exact single letter,98.0,100.0,60.0
+"Strategy 3: ""Answer: X""",0.0,0.0,13.0
+Strategy 3: Bold formatting,0.0,0.0,5.0
+Strategy 4: First word,2.0,0.0,4.0
+Strategy 5: Last line,0.0,0.0,18.0

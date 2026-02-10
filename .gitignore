@@ -1,0 +1,35 @@
+# Claude Code directory
+.claude/
+
+# Environment variables and API keys
+.env
+.env.local
+*.key
+config.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Large data files (optional - uncomment to exclude)
+# debug_run_*.csv
+# debug_all_results.csv
+
+# OS files
+.DS_Store
+Thumbs.db
