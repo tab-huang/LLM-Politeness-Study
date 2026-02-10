@@ -157,7 +157,7 @@ If you use this research, please cite:
 ```
 LLM Politeness Study (2025)
 Research on prompt tone effects on MMLU-Pro benchmark accuracy
-https://github.com/[your-username]/LLM_Politeness
+https://github.com/tab-huang/LLM-Politeness-Study
 ```
 
 ## License
